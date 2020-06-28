@@ -1,0 +1,8 @@
+newmtl t_leet_tga
+Ns 0.1
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+d 1.0
+map_Kd soldier_kd.png
+map_bump soldier_bump.png

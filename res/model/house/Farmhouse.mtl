@@ -1,0 +1,8 @@
+newmtl lambert13SG
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 0.0  # shininess, range is [0,1000]
+illum 1
+map_Kd FarmhouseTexture.jpg
+map_bump FarmhouseTextureBumpMap.jpg

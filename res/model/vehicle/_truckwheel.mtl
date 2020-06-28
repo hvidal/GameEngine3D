@@ -1,0 +1,26 @@
+#Produced by Art of Illusion 2.9.2, Tue Sep 03 17:32:28 BRT 2013
+newmtl Borracha
+Kd 0.16 0.16 0.16
+Ks 0.31 0.31 0.31
+Ka 0 0 0
+illum 2
+Ns 59
+newmtl Aluminio
+Kd 1 1 1
+Kd 0.74094 0.74094 0.74094
+Ks 0.95 0.95 0.95
+Ka 0.5 0.5 0.5
+illum 2
+Ns 500
+newmtl Aro
+Kd 0.4 0.4 0.4
+Ks 0.25 0.25 0.25
+Ka 0.3 0.3 0.3
+illum 2
+Ns 250
+newmtl Roda_Metal
+Kd 0.7 0.7 0.7
+Ks 0.85 0.85 0.85
+Ka 0.5 0.5 0.5
+illum 2
+Ns 800

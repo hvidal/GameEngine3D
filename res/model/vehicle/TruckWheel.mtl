@@ -1,0 +1,29 @@
+newmtl Borracha
+Kd 0.16 0.16 0.16
+Ks 0.31 0.31 0.31
+Ka 0 0 0
+illum 2
+Ns 90
+
+newmtl Aluminio
+Kd 1 1 1
+Kd 0.74 0.74 0.74
+Ks 0.8 0.8 0.8
+Ka 0.35 0.35 0.35
+illum 2
+Ns 500
+
+newmtl Aro
+Kd 0.4 0.4 0.4
+Ks 0.25 0.25 0.25
+Ka 0.3 0.3 0.3
+illum 2
+Ns 650
+
+newmtl Roda_Metal
+Kd 0.7 0.7 0.7
+Ks 0.5 0.5 0.5
+Ka 0.25 0.25 0.25
+illum 2
+Ns 800
+

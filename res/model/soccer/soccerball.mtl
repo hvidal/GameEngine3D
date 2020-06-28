@@ -1,0 +1,11 @@
+newmtl white
+Ka 0.1 0.1 0.1
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+Ns 300
+
+newmtl black
+Ka 0.1 0.1 0.1
+Kd 0.1 0.1 0.1
+Ks 0.0 0.0 0.0
+Ns 300

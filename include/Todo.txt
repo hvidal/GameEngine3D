@@ -1,0 +1,54 @@
+
+[P1]
+ - Grass normals
+
+ - simulation + erosion (medium)
+ - Stars
+ - Houses
+ - Bridges
+ - Dust when wheel touches the ground
+ - Convert roads into IPlanetExternalObjects
+
+[P2]
+ - Improve clouds with shader noise
+ - Consider merging SurfaceReflection + Sky
+ - Improve BHV import
+ - Human + BVH
+
+[P3]
+ - Simplify lighting (only light intensity... the obj material should do the rest)
+ - scripting language (scene, cars)
+ - Post processing (focus/blur, etc.)
+
+[DONE]
+ - Fix shadow map
+ - ModelOBJRenderer: textures
+ - Terrain -> VBO
+ - Planet (sphere terrain, night/day, etc.)
+ - Roads
+ - Fix WASD camera
+ - Improve Planet::isVisible(): reduce hemisphere size
+ - antialiasing
+ - Serialization
+ - Clouds
+ - Sky
+ - Apply atmospheric scattering to landscape
+ - Marge Light + Sky
+ - Upgrade GLShapeRenderer (remove glu.h)
+ - Water
+ - Remove glu.h
+ - Plants
+ - Chase camera [easy]
+ - Trees
+ - Steady chase camera
+ - Wind (vegetation)
+ - Grass
+ - Pin (instanced)
+
+ ___________________
+
+ auto start = std::chrono::high_resolution_clock::now();
+ ...
+ auto end = std::chrono::high_resolution_clock::now();
+ auto diff = std::chrono::duration_cast<std::chrono::nanoseconds>(end-start).count();
+ Log::debug("time = %f ms", diff / 1000.0f);

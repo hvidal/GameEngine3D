@@ -1,0 +1,8 @@
+newmtl material1
+Ns 123.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+illum 1
+map_Kd kd.tga
+map_bump bump.tga
