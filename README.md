@@ -27,7 +27,7 @@ https://www.youtube.com/user/hugovteixeira
 
 The MIT License (MIT) - https://opensource.org/licenses/MIT
 
-* Copyright (c) 2016-2017 Hugo Vidal Teixeira
+* Copyright (c) 2016-2021 Hugo Vidal Teixeira
 
 ### Who do I talk to? ###
 
